@@ -115,8 +115,22 @@
 
 <h3> Operating Systems:<ul><li>
 
-  [OS YT Channel](https://youtube.com/playlist?list=PL1XjRDnU2tOipNUtu22aHUGC4SADqHrYF&si=v_Y3x3NfKqQ2VStH)
+  [OS YT Channel](https://youtube.com/playlist?list=PL1XjRDnU2tOipNUtu22aHUGC4SADqHrYF&si=v_Y3x3NfKqQ2VStH) 🎬
 </li></ul></h3>
+
+---
+<h3> Computer Networks:<br><ul>
+  <li>
+
+  [CN YT Channel](https://www.youtube.com/playlist?list=PLmXKhU9FNesSjFbXSZGF8JF_4LVwwofCd) 🎬</li>
+  
+  <li>
+    
+[CN Book - Data Communications and Networking by Forouzan (PDF)](https://dpvipracollege.in/wp-content/uploads/2023/01/Data-Communications-and-Networking-By-Behrouz-A.Forouzan.pdf) 📘
+  </li>
+  
+  </ul></h3>
+
 
 ---
 
